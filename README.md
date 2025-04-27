@@ -1,7 +1,5 @@
 # vr-vision
-Hey everyone!  
-I'm super excited to introduce **Vision**—a landing page for VR glasses built with HTML, CSS, and JavaScript, featuring a stunning design by the talented **Bato** team. It’s fully responsive and optimized for every device. I’d love to hear your thoughts and suggestions!
-
+The **VR Vision** project is an innovative implementation of virtual reality technology presented through a sophisticated landing page. This project has been developed using HTML, CSS, and JavaScript. Its visual and user interface design has been meticulously crafted by the professional **Bato** team, employing modern design principles to deliver an optimal user experience. Additionally, the project is fully responsive, ensuring seamless compatibility and an optimal view across all devices.
 
 Vision landing page:
 http://vision-vr.netlify.app
