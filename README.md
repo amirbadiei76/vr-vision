@@ -1,4 +1,4 @@
-# vr-vision
+# VR Vision
 The **VR Vision** project is an innovative implementation of virtual reality technology presented through a sophisticated landing page. This project has been developed using HTML, CSS, and JavaScript. Its visual and user interface design has been meticulously crafted by the professional **Bato** team, employing modern design principles to deliver an optimal user experience. Additionally, the project is fully responsive, ensuring seamless compatibility and an optimal view across all devices.
 
 Vision landing page:
